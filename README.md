@@ -4,17 +4,19 @@ I'm a student at Brigham Young University, studying computer science. I'm curren
 
 
 
-**Resume** 
-
-[Adilyn Rose Resume](Resume.pdf)
-
-
 
 **Projects** 
 
  - Currently, I'm working on a datalog interpreter for my Discrete Structures class. Here is the repository for my current progress: https://github.com/byu-cs-236-f25/project-2-roseadi000.git
  - I also programmed multiple sorts and data structures.
- - In my Introduction to Computer Science, I programmed a web scraper. I could take information I scrapped and create graphs if it is data, or edit the photo with a specific filter if it was a photo.
+ - In my Introduction to Computer Science, I programmed a web scraper. If I scrapped data, I could create graphs displaying it. I could also apply filters to any photo that was scrapped.
+ - I've been learning Unity and am working on starting a game project in that program.
+
+
+
+**Resume** 
+
+[Adilyn Rose Resume](Resume.pdf)
 
 
 
