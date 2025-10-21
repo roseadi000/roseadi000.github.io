@@ -17,4 +17,6 @@ I'm a student at Brigham Young University, studying computer science. I'm curren
 
 *Email:* arose45@byu.edu
 
+*LinkedIn:* www.linkedin.com/in/adilyn-rose
+
 *Phone:* 801-940-4147
