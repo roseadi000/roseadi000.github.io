@@ -4,12 +4,13 @@ I'm a student at Brigham Young University, studying computer science. I'm curren
 
 **Resume** 
 
-[View the PDF](Resume.pdf)
+[Adilyn Rose Resume](Resume.pdf)
 
 
 **Projects** 
 
-Currently, I'm working on a datalog interpreter for my Discrete Structures class. Here is the repository for my current progress: https://github.com/byu-cs-236-f25/project-2-roseadi000.git
+ - Currently, I'm working on a datalog interpreter for my Discrete Structures class. Here is the repository for my current progress: https://github.com/byu-cs-236-f25/project-2-roseadi000.git
+ - I also programmed multiple sorts and data structures.
 
 
 **Contact Information**
